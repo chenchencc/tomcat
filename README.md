@@ -67,3 +67,6 @@ instructions for reporting a bug
 ### Contributing
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for more info.
+Get source from github,
+主要是用来做tomcat原理和代码分析，可能会与官方给出的tomcat代码不一致
+
